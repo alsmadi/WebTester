@@ -1,0 +1,9 @@
+C:\Users\Izzat\Desktop\Nahed\WebTester\WatiN\WebAppUITesting\bin\WebAppUITesting.dll.config
+C:\Users\Izzat\Desktop\Nahed\WebTester\WatiN\WebAppUITesting\bin\WebAppUITesting.dll
+C:\Users\Izzat\Desktop\Nahed\WebTester\WatiN\WebAppUITesting\bin\WebAppUITesting.pdb
+C:\Users\Izzat\Desktop\Nahed\WebTester\WatiN\WebAppUITesting\bin\nunit.framework.dll
+C:\Users\Izzat\Desktop\Nahed\WebTester\WatiN\WebAppUITesting\bin\WatiN.Core.dll
+C:\Users\Izzat\Desktop\Nahed\WebTester\WatiN\WebAppUITesting\bin\Interop.SHDocVw.dll
+C:\Users\Izzat\Desktop\Nahed\WebTester\WatiN\WebAppUITesting\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Izzat\Desktop\Nahed\WebTester\WatiN\WebAppUITesting\obj\Debug\WebAppUITesting.dll
+C:\Users\Izzat\Desktop\Nahed\WebTester\WatiN\WebAppUITesting\obj\Debug\WebAppUITesting.pdb
